@@ -3,6 +3,8 @@ import { TasksPage } from './pages/TasksPage';
 import { TaskFormPage } from './pages/TaskFormPage';
 import { Navigation } from './components/Navigation';
 import { Toaster } from 'react-hot-toast';
+import * as bootstrap from "bootstrap";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
